@@ -1,0 +1,3 @@
+1. BCryptPasswordEncoder adalah salah satu fungsi bawaan dari Spring Security yang berfungsi untuk encoding password menggunakan algoritma BCrypt. Algoritma BCrypt menambahkan random "salt" value kedalam password kita.
+
+2. Membentuk suatu set of authorities dimana didalamnya terdapat berbagai authority dalam hal ini menggunakan fungsi SimpleGrantedAuthority yang menentukan tipe authority secara sederhana melalui String value.
